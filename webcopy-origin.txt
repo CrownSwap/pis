@@ -1,0 +1,128 @@
+Uri: https://www.marketcapof.com/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/favicon.png
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\favicon.png
+Content Type: image/png
+
+Uri: https://www.marketcapof.com/de/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\de\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/el/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\el\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/es/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\es\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/fr/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\fr\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/hi/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\hi\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/hu/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\hu\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/id/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\id\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/it/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\it\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/ja/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\ja\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/ko/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\ko\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/ms/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\ms\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/nl/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\nl\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/no/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\no\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/pl/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\pl\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/pt/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\pt\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/ru/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\ru\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/sv/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\sv\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/th/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\th\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/tr/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\tr\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/vi/
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\vi\index.htm
+Content Type: text/html
+
+Uri: https://www.marketcapof.com/manifest.json
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\manifest.json
+Content Type: application/json
+
+Uri: https://www.marketcapof.com/static/css/main.888840b0.chunk.css
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\static\css\main.888840b0.chunk.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-NSRJET969P
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.marketcapof.com/static/js/2.71bd9bdb.chunk.js
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\static\js\2.71bd9bdb.chunk.js
+Content Type: application/javascript
+
+Uri: https://www.marketcapof.com/static/js/main.d253bc2a.chunk.js
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\static\js\main.d253bc2a.chunk.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\css2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto&display=swap
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\css2-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Nunito&display=swap
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\css2-2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\css2-3.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap);@import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);@import url(https://fonts.googleapis.com/css2?family=Nunito&display=swap);@import url(https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap);@-webkit-keyframes fadeInAndScale{0%25{opacity:0}50%25{opacity:1;-webkit-transform:scale(1.1);transform:scale(1.1)}to{-webkit-transform:scale(1);transform:scale(1)}}@keyframes fadeInAndScale{0%25{opacity:0}50%25{opacity:1;-webkit-transform:scale(1.1);transform:scale(1.1)}to{-webkit-transform:scale(1);transform:scale(1)}}.buy-text{font-size:.9rem;background-color:transparent;color:var(--footer-text);font-weight:700}.btn-buy,.buy-text{-webkit-animation-name:fadeInAndScale;animation-name:fadeInAndScale;-webkit-animation-duration:.5s;animation-duration:.5s;-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}.buy-coin-overlay{height:100%25;width:100%25;top:0;bottom:0;right:0;left:0;position:absolute;background-color:rgba(15,15,24,.8235294117647058);z-index:1}.buy-coin-overlay,.buy-popup{display:-webkit-flex;display:flex;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;align-items:center}.buy-popup{width:auto;max-height:90%25;max-width:500px;margin:.75rem;background:linear-gradient(
+File Name: C:\Downloaded Web Sites\www.marketcapof.com\css2-4.css
+Content Type: text/css
+
